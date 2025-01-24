@@ -7,7 +7,7 @@ import Bg from './component/bg/Bg.jsx'
 function App() {
   return (
    <div>
-<Navbar /> 
+
 <div>
 <Bg />
 </div>
