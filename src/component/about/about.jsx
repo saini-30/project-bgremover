@@ -2,7 +2,11 @@ import React from "react";
 
 const About = () => {
   return (
-    <div>
+    <div >
+     <div className="z-[-1] relative top-[69%] left-[-9%] ">
+      
+      <img  className=" transform -scale-x-100" src="Group 1.png"></img>
+      </div> 
       {/* Steps Section */}
       <div className="bg-[#716FFA] border rounded-[219px] mt-9 py-14 relative">
        
@@ -12,7 +16,7 @@ const About = () => {
         <div className="text-center mb-8">
           <h2 className="text-3xl font-bold text-white mb-3">How to use the background remover</h2>
           <p className="text-lg text-white max-w-2xl mx-auto">
-            Easily remove backgrounds from your images in three simple steps. Upload your image, let our AI process it, and download the result instantly.
+            Easily remove backgrounds from your images in three simple steps.<br></br> Upload your image, let our AI process it, and download the result instantly.
           </p>
         </div>
 
@@ -71,7 +75,7 @@ const About = () => {
 
       {/* Additional Segment */}
       <div className="py-16 flex my-12  text-center">
-        <div className="max-w-[22%] mx-auto">
+        <div className="z-[-2] max-w-[22%] mx-auto">
           <img src="img1.png"></img>
           </div>
         
