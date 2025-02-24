@@ -2,7 +2,7 @@ import './index.css'
 
 import About from './component/about/about.jsx'
 import Bg from './component/bg/Bg.jsx'
-import End from "./component/end/end.jsx"
+import End from "./component/ends/End.jsx"
 import Navbar from "./component/nav/Navbar.jsx"
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
 <div>
 <Bg />
 </div>
-<div>
+<div>   
   <About />
   <div>
     <End />
