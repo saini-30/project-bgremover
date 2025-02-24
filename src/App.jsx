@@ -3,8 +3,7 @@ import './index.css'
 import Navbar from './component/nav/Navbar.jsx'
 import Bg from './component/bg/Bg.jsx'
 import About from './component/about/about.jsx'
-import End from "./components/end/End";
-
+import End from './component/end/end.jsx'
 
 function App() {
   return (
