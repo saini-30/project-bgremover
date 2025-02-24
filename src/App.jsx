@@ -1,9 +1,9 @@
 import './index.css'
 
-import Navbar from './component/nav/Navbar.jsx'
-import Bg from './component/bg/Bg.jsx'
 import About from './component/about/about.jsx'
-import End from './component/end/end.jsx'
+import Bg from './component/bg/Bg.jsx'
+import End from "./component/end/end.jsx"
+import Navbar from "./component/nav/Navbar.jsx"
 
 function App() {
   return (

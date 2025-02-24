@@ -1,6 +1,6 @@
 import React from 'react';
 
-const End = ()=> {
+const End = () => {
   return (
     <div className="">
       <h1 className="text-center text-3xl font-semibold my-9">HD Quality Result</h1>
