@@ -2,8 +2,8 @@ import React from "react";
 
 const About = () => {
   return (
-    <div >
-     <div className="z-[-1] relative top-[69%] left-[-9%] ">
+    <div className="mt-[12%]">
+     <div className="z-[-1] absolute top-[89%] left-[-9%] ">
       
       <img  className=" transform -scale-x-100" src="Group 1.png"></img>
       </div> 
